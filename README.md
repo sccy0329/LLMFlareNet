@@ -32,13 +32,13 @@
 
 - **MX (Positive Class)**: M-class or X-class flare
 
-  ![model](./assert/model.png)
+  ![model](./assert/LLMFlareNet2.pdf)
 
 We also make a solar flare forecasting system (www.justspaceweather.cn) ,(等待替换，假设文中表示)
 
 ![result](./assert/3function.png)
 
-![result](./assert/predict.jpg)
+![result](./assert/system.eps)
 
 # Updates & Roadmap
 
